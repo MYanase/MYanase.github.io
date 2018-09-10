@@ -1,1 +1,0 @@
-# myanase.github.io
