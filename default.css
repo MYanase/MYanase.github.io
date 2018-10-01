@@ -112,13 +112,13 @@ header{
 .circle{
   background: #fddea5;
   color: #fddea5;
-  width: 50%;
-  height: 50%;
+  width: 500px;
+  height: 500px;
   border-radius: 50%;
   position: absolute;
   top:60px;
-  left: 43%;
-  right:43%;
+  left: 430px;
+  right:430px;
 }
 
 @keyframes cloud{
