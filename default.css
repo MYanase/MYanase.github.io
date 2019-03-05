@@ -273,9 +273,13 @@ a.button{
   height: 200px;
   margin: 20px;
   vertical-align: top;
+  text-align: left;
 }
 span{
   font-size: 15px;
+}
+span.title{
+  font-weight: bold;
 }
 img{
   width: 240px;
