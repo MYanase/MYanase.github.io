@@ -222,6 +222,11 @@ td{
   height:91%;
   background: #f8f5e3;
 }
+ul{
+  float: left;
+  margin: 0;
+  padding: 0;
+}
 .choice{
   position: absolute;
   left: 14%;
@@ -250,11 +255,6 @@ a.button{
   background-attachment: fixed;
   background-size: cover;
 }
-ul{
-  float: left;
-  margin: 0;
-  padding: 0;
-}
 .Work{
   border: #524e4d solid;
   border-width: 20px 17px;
@@ -272,6 +272,7 @@ ul{
   width: 240px;
   height: 200px;
   margin: 20px;
+  vertical-align: top;
 }
 span{
   font-size: 15px;
