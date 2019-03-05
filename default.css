@@ -250,6 +250,11 @@ a.button{
   background-attachment: fixed;
   background-size: cover;
 }
+ul{
+  float: left;
+  margin: 0;
+  padding: 0;
+}
 .Work{
   border: #524e4d solid;
   border-width: 20px 17px;
