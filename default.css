@@ -208,9 +208,12 @@ td{
   padding-left: 200px;
   word-wrap: normal;
 }
+.FontCenter ul{
+  float: left;
+  margin-left: 200px;
+}
 .FontCenter li{
   list-style: square;
-  margin-left: 350px;
   text-align: left;
 }
 .AboutTheSite{
@@ -221,11 +224,6 @@ td{
   width: 70%;
   height:91%;
   background: #f8f5e3;
-}
-ul{
-  float: left;
-  margin: 0;
-  padding: 0;
 }
 .choice{
   position: absolute;
