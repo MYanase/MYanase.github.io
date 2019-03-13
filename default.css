@@ -26,7 +26,10 @@ a.scroll{
 a span{
   position: absolute;
   top: 0;
-  left: 50%;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
   width: 46px;
   height: 46px;
   margin-left: -23px;
@@ -102,7 +105,7 @@ header{
   background-size: cover;
 }
 .moon{
-  height: 560px;
+  height: 83%;
   color: #524e4d;
   font-size: 50px;
   font-weight: bold;
@@ -112,13 +115,15 @@ header{
 .circle{
   background: #fddea5;
   color: #fddea5;
-  width: 500px;
-  height: 500px;
+  width: 480px;
+  height: 480px;
   border-radius: 50%;
   position: absolute;
-  top:60px;
-  left: 430px;
-  right:430px;
+  top:5%;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: 0 auto;
 }
 
 @keyframes cloud{
@@ -206,6 +211,7 @@ td{
   font-size: 19px;
   width: 570px;
   padding-left: 200px;
+  margin: 0;
   word-wrap: normal;
 }
 .FontCenter ul{
